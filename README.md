@@ -56,7 +56,7 @@ Gratitude to all contributors who made this project possible.
 
 <div align="left">
   <a href="https://github.com/your-github-merna-abdelmoez">
-      <img src="https://github.com/your-github-merna-abdelmoez.png" width="100px" alt="@your-github-merna_abdelmoez">
+      <img src="https://github.com/your-github-merna-abdelmoez.png" width="100px" alt="@MernaAbdelmoez">
   </a>
 </div>
 
