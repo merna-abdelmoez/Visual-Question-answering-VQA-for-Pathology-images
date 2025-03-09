@@ -55,11 +55,34 @@ The dataset consists of **32,799 medical-related questions** linked to **4,998 p
 ## Contributors
 Gratitude to all contributors who made this project possible.
 
-<div align="left">
-  <a href="https://github.com/merna-abdelmoez">
-      <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@MernaAbdelmoez">
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/merna-abdelmoez" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/17731926?v=4" width="150px;" alt="Merna Abd ElMoez"/>
+    <br />
+    <sub><b>Merna Abd ElMoez</b></sub></a>
+    <td align="center">
+    <a href="https://github.com/Omartarek78" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/101303283?v=4" width="150px;" alt="Omar Tarek"/>
+    <br />
+    <sub><b>Omar Tarek</b></sub></a>
+    </td>
+    </td>
+    <td align="center">
+    <a href="https://github.com/abdallahahmed11" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/100636693?v=4" width="150px;" alt="Abdallah Ahmed"/>
+    <br />
+    <sub><b>Abdallah Ahmed</b></sub></a>
+    </td>
+    <td align="center">
+   <td align="">
+    <a href="https://github.com/mayar" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/115110339?v=4" width="150px;" alt="Mayar Ahmed"/>
+    <br />
+    <sub><b>Mayar Ahmed</b></sub></a>
+    </td>
+ </table>
 
 ## Acknowledgments
 **This project was supervised by Dr.Inas Yassin, who provided invaluable guidance and expertise throughout its development as a part of the Deep Learning Course at Cairo University Faculty of Engineering.**
