@@ -4,7 +4,7 @@
   <img src="https://github.com/merna-abdelmoez/Visual-Question-answering-VQA-for-Pathology-images/blob/main/assests/Screenshot%202025-03-09%20212836.png" alt="Medical VQA"/>
 </p>
 ## Overview
-The **Medical Visual Question Answering (VQA) Model** leverages **Bootstrapped Language-Image Pretraining (BLIP)** to interpret complex medical images and provide accurate answers to clinical questions. This AI-powered system enhances decision-making in diagnostics by combining vision and language models.
+The Medical Visual Question Answering (VQA) Model leverages Bootstrapped Language-Image Pretraining (BLIP) to interpret complex medical images and provide accurate answers to clinical questions. This AI-powered system enhances decision-making in diagnostics by combining vision and language models.
 
 ## Features
 - **Automated Medical Image Interpretation**: Generates precise answers for clinical queries.
@@ -55,7 +55,7 @@ The dataset consists of **32,799 medical-related questions** linked to **4,998 p
 Gratitude to all contributors who made this project possible.
 
 <div align="left">
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/your-github-merna-abdelmoez">
       <img src="https://github.com/your-github-merna-abdelmoez.png" width="100px" alt="@your-github-username">
   </a>
 </div>
