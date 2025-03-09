@@ -1,7 +1,6 @@
 # Medical Visual Question Answering (VQA) Model
 
-![Medical VQA]([assets/medical_vqa.png](https://github.com/merna-abdelmoez/Visual-Question-answering-VQA-for-Pathology-images/blob/main/assests/Screenshot%202025-03-09%20212836.png))
-
+![Medical VQA](assets/Screenshot 2025-03-09 212836.png)
 ## Overview
 The **Medical Visual Question Answering (VQA) Model** leverages **Bootstrapped Language-Image Pretraining (BLIP)** to interpret complex medical images and provide accurate answers to clinical questions. This AI-powered system enhances decision-making in diagnostics by combining vision and language models.
 
