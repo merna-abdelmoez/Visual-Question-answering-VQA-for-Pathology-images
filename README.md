@@ -61,5 +61,10 @@ Gratitude to all contributors who made this project possible.
   </a>
 </div>
 
-## License
-This project is licensed under the [MIT License](LICENSE.md).
+## Acknowledgments
+**This project was supervised by Dr.Inas Yassin, who provided invaluable guidance and expertise throughout its development as a part of the Deep Learning Course at Cairo University Faculty of Engineering.**
+
+
+<div style="text-align: right">
+    <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
+</div>
