@@ -82,7 +82,6 @@ Gratitude to all contributors who made this project possible.
     <br />
     <sub><b>Mayar Ahmed</b></sub></a>
     <td align="center">
-   <td align="">
     </td>
  </table>
 
