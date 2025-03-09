@@ -55,8 +55,8 @@ The dataset consists of **32,799 medical-related questions** linked to **4,998 p
 Gratitude to all contributors who made this project possible.
 
 <div align="left">
-  <a href="https://github.com/your-github-merna-abdelmoez">
-      <img src="https://github.com/your-github-merna-abdelmoez.png" width="100px" alt="@MernaAbdelmoez">
+  <a href="https://github.com/merna-abdelmoez">
+      <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@MernaAbdelmoez">
   </a>
 </div>
 
