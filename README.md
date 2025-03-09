@@ -58,32 +58,35 @@ Gratitude to all contributors who made this project possible.
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/merna-abdelmoez" target="_black">
-    <img src="https://github.com/merna-abdelmoez.png" width="150px;" alt="Merna Abd ElMoez"/>
-    <br />
-    <sub><b>Merna Abd ElMoez</b></sub></a>
-    <td align="center">
-    <a href="https://github.com/Omartarek78" target="_black">
-    <img src="https://github.com/Omartarek78.png" width="150px;" alt="Omar Tarek"/>
-    <br />
-    <sub><b>Omar Tarek</b></sub></a>
-    </td>
+      <a href="https://github.com/merna-abdelmoez" target="_blank">
+        <img src="https://github.com/merna-abdelmoez.png" width="150px;" alt="Merna Abd ElMoez"/>
+        <br />
+        <sub><b>Merna Abd ElMoez</b></sub>
+      </a>
     </td>
     <td align="center">
-    <a href="https://github.com/abdallahahmed11" target="_black">
-    <img src="https://github.com/abdallahahmed11.png" width="150px;" alt="Abdallah Ahmed"/>
-    <br />
-    <sub><b>Abdallah Ahmed</b></sub></a>
+      <a href="https://github.com/Omartarek78" target="_blank">
+        <img src="https://github.com/Omartarek78.png" width="150px;" alt="Omar Tarek"/>
+        <br />
+        <sub><b>Omar Tarek</b></sub>
+      </a>
     </td>
     <td align="center">
-   <td align="">
-    <a href="https://github.com/MayarAhmeddd" target="_black">
-    <img src="https://github.com/MayarAhmeddd.png" width="150px;" alt="Mayar Ahmed"/>
-    <br />
-    <sub><b>Mayar Ahmed</b></sub></a>
-    <td align="center">
+      <a href="https://github.com/abdallahahmed11" target="_blank">
+        <img src="https://github.com/abdallahahmed11.png" width="150px;" alt="Abdallah Ahmed"/>
+        <br />
+        <sub><b>Abdallah Ahmed</b></sub>
+      </a>
     </td>
- </table>
+    <td align="center">
+      <a href="https://github.com/MayarAhmeddd" target="_blank">
+        <img src="https://github.com/MayarAhmeddd.png" width="150px;" alt="Mayar Ahmed"/>
+        <br />
+        <sub><b>Mayar Ahmed</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Acknowledgments
 **This project was supervised by Dr.Inas Yassin, who provided invaluable guidance and expertise throughout its development as a part of the Deep Learning Course at Cairo University Faculty of Engineering.**
