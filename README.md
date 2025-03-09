@@ -77,8 +77,8 @@ Gratitude to all contributors who made this project possible.
     </td>
     <td align="center">
    <td align="">
-    <a href="https://github.com/mayar" target="_black">
-    <img src="https://github.com/mayar.png" width="150px;" alt="Mayar Ahmed"/>
+    <a href="https://github.com/MayarAhmeddd" target="_black">
+    <img src="https://github.com/MayarAhmeddd.png" width="150px;" alt="Mayar Ahmed"/>
     <br />
     <sub><b>Mayar Ahmed</b></sub></a>
     </td>
