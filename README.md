@@ -48,7 +48,7 @@ The dataset consists of **32,799 medical-related questions** linked to **4,998 p
 
 ## Results
 ### Quantitative Performance
-- **Validation BLEU Score**: 0.042  
+- **Validation BLEU Score**: 0.82  
 - **Validation Loss**: 37  
 
 
